@@ -1,5 +1,6 @@
 # May Kim - @MayHyeyeonKim
 Hi, I'm a software engineer.
+`# JavaScript` `# TypeScript` `# Next.js` `# ExpressJS` `# React` `# Next.js` `# Python` `# Java` `# Django` `# SpringBoot`
 
 <div align="center">
   
