@@ -3,13 +3,14 @@ Hi, I'm a software engineer. </br>
 `# JavaScript` `# TypeScript` `# Next.js` `# ExpressJS` `# React` `# Python` `# Java` `# Django` `# SpringBoot`
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MayHyeyeonKim&show_icons=true&theme=react&hide=issues,contribs" />
+  <a href="https://github.com/MayHyeyeonKim">
+    <img src="https://github-readme-stats.vercel.app/api?username=MayHyeyeonKim&show_icons=true&theme=react" alt="May's GitHub Stats" height="150em" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayHyeyeonKim&layout=compact&theme=react&hide=ejs,dockerfile,docker,batchfile" />
+  <a href="https://github.com/MayHyeyeonKim">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayHyeyeonKim&layout=compact&theme=react" alt="Most Used Languages" height="150em" />
   </a>
 </p>
+
 <p align="center">
     <a href="https://www.linkedin.com/in/hykim-may/">
         <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/>
