@@ -1,6 +1,6 @@
 # May Kim - @MayHyeyeonKim
 Hi, I'm a software engineer. </br>
-`# JavaScript` `# TypeScript` `# Node.js` `# ExpressJS` `# React` `# Redux` `# Redux Toolkit` `# Redux-saga` `# Redux Thunk` `# Python` `# Java` `# Django` `# SpringBoot`
+`# JavaScript` `# TypeScript` `# Node` `# Express` `# React` `# Next` `# Redux` `# Redux Toolkit` `# Redux-saga` `# Redux Thunk` `# Python` `# Java` `# Django` `# SpringBoot`
 
 <p align="center">
   <a href="https://github.com/MayHyeyeonKim">
